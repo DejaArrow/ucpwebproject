@@ -1,5 +1,5 @@
 .Footer{
-    font-family: Monsterrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 12px;
     width: 100%;
     color: white;
@@ -8,3 +8,26 @@
     margin: auto;    
 
 }
+.CopyrightLink{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.CopyrightLink:link {
+  color: white;
+}
+
+
+.CopyrightLink:visited {
+  color: white;
+}
+
+
+.CopyrightLink:hover {
+  color: white;
+}
+
+
+.CopyrightLink:active {
+  color: white;
+}
+

@@ -7,7 +7,7 @@ function Copyright() {
   return (
     <Typography variant="body2" color="#fff" align="center">
       {'Copyright © '}
-      <Link color= 'white' href="#">
+      <Link  className ="CopyrightLink" color= 'white' href="#">
         University Center Peterborough
       </Link>{' '}
       {new Date().getFullYear()}
