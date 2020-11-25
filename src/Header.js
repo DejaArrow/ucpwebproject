@@ -38,6 +38,7 @@ export default function Header(props) {
       
       <Toolbar className={classes.toolbar}>
         <img src= {logo} className = 'logo' alt="New UCP Logo" />
+        
         <Typography
           component="h2"
           variant="h5"

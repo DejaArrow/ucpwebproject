@@ -18,7 +18,7 @@ function Copyright() {
 
 function Footer(){
     return(
-        <div className="Footer">
+        <div className="Footer" >
             <p>University Center Peterborough</p>
             <p>Park Crescent Campus ,Peterborough, Cambridgeshire PE1 4DZ, United Kingdom</p>
             <Copyright />
